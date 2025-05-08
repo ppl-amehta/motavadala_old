@@ -1,0 +1,86 @@
+﻿.DarkGreyBackColor{
+    background-color:rgb(73, 73, 73)
+}
+
+.DarkGreyForeColor{
+    color:rgb(73, 73, 73)
+}
+
+.LightGreyBackColor {
+    background-color: rgb(240, 244, 253)
+    /*background-color:rgb(248, 248, 248)*/
+    /*background-color:rgb(239, 248, 255)*/
+}
+
+.LightGreyForeColor{
+    color:rgb(245, 245, 245)
+}
+
+.DarkBlueBackColor{
+    background-color:rgb(17, 24, 42);
+}
+
+.DarkBlueForeColor{
+    color:rgb(17, 24, 42);
+}
+
+
+.OrangeBackColor{
+    background-color:orange;
+}
+
+.OrangeForeColor{
+    color:orange;
+}
+
+.RedBackColor {
+    background-color: red;
+}
+
+.RedForeColor{
+    color: red;
+}
+.LavenderBackColor{
+    background-color:lavender;
+}
+
+.LavenderForeColor{
+    color:lavender;
+}
+
+.WhiteBackColor{
+    background-color:white;
+}
+
+.WhiteForeColor{
+    color:white;
+}
+
+.YellowBackColor{
+    background-color:yellow;
+}
+
+.YellowForeColor{
+    color:yellow;
+}
+
+.GreenBackColor{
+    background-color:mediumseagreen;
+}
+
+.GreenForeColor {
+    color: mediumseagreen;
+}
+
+.GoldenBackColor{
+    background-color: #eed7b5;
+}
+
+.GoldenForeColor{
+    color: #eed7b5;
+}
+
+.GoldenBackGradiant{
+    
+    background: linear-gradient(to top, rgba(238,215,181,0), rgba(238,215,181,1));
+}

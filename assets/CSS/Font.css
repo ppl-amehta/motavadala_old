@@ -1,0 +1,143 @@
+﻿/* CSS For Dynamatically Add Font*/
+/* Add All Font Releted CSS is Here.*/
+
+
+@font-face {
+    font-family: "Play-Regular";
+    src: url('../Fonts/Play-Regular.ttf');
+    /* refering them is also simple */
+}
+
+
+@font-face {
+    font-family: "Play-Bold";
+    src: url('../Fonts/Play-Bold.ttf');
+    /* refering them is also simple */
+}
+
+
+.PlayText {
+    font-family: Play-Regular, Calibri;
+    /* always set a fallback font, if the font fails 
+       to load or the client doesn't understand css3*/
+}
+
+.PlayBoldText {
+    font-family: Play-Bold, Cambria;
+    /* always set a fallback font, if the font fails 
+       to load or the client doesn't understand css3*/
+}
+
+
+@font-face {
+    font-family: "TitilliumWeb-Light";
+    src: url('../Fonts/TitilliumWeb-Light.ttf');
+    /* refering them is also simple */
+}
+
+@font-face {
+    font-family: "TitilliumWeb-SemiBold";
+    src: url('../Fonts/TitilliumWeb-SemiBold.ttf');
+    /* refering them is also simple */
+}
+
+
+
+.TitilliumWeb-Light {
+    font-family: TitilliumWeb-Light, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* always set a fallback font, if the font fails 
+       to load or the client doesn't understand css3*/
+}
+
+.TitilliumWeb-SemiBlod {
+    font-family: TitilliumWeb-SemiBold, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* always set a fallback font, if the font fails 
+       to load or the client doesn't understand css3*/
+}
+
+@font-face {
+    font-family: "LobsterTwo-BoldItalic";
+    src: url('../Fonts/LobsterTwo-BoldItalic.ttf');
+    /* always set a fallback font, if the font fails 
+       to load or the client doesn't understand css3*/
+}
+
+.Lobster-BlodItalic {
+    font-family: LobsterTwo-BoldItalic, Cambria;
+    /* always set a fallback font, if the font fails 
+       to load or the client doesn't understand css3*/
+}
+
+
+
+
+.FontSizeHeading{
+    font-size:26pt;
+}
+
+.FontSizeNormalHeavy{
+    font-size:18pt;
+}
+
+.FontSizeNormal{
+    font-size:16pt;
+}
+
+.FontSizeMediumNormal{
+    font-size:14pt;
+}
+
+.FontSizeMedium{
+    font-size:12pt;
+    margin-left: 0px;
+}
+
+.FontSizeSmall{
+    font-size:10pt;
+}
+
+.VardanaFont{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.LineSpace{
+    line-height:1.6;
+}
+
+.LineSpace1 {
+    line-height: 200%;
+}
+
+.CharacterSpace{
+    letter-spacing:0.3px;
+}
+
+.CharacterSpace1{
+    letter-spacing:1px;
+}
+
+.AlignLeft {
+    text-align: left;
+}
+
+.AlignCenter {
+    text-align: center;
+    width: 100%;
+}
+
+.AlignRight {
+    text-align: right;
+}
+
+.AlignJustify{
+    text-align:justify;
+}
+
+.AlignCenterHorizentally {
+    vertical-align:middle;
+}
+
+.WrapText{
+    white-space: normal;
+    word-wrap:break-word;
+}

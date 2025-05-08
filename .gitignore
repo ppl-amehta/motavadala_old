@@ -1,0 +1,25 @@
+# System files
+.DS_Store
+
+# ASP.NET
+Bin/
+Obj/
+*.suo
+*.user
+App_Data/
+*.pdb
+*.cache
+__history/
+
+# Visual Studio
+.vs/
+*.sln
+*.vbproj
+*.user
+*.pubxml.user
+
+# Publish profiles
+**/PublishProfiles/
+
+# Licenses
+licenses.licx
